@@ -83,13 +83,3 @@
 </div>
 
 ###
-
-<h6 align="center">Here's a Random Cat for you:</h6>
-
-###
-
-<div align="center">
-  <img height="200" src="https://cataas.com/cat"  />
-</div>
-
-###
