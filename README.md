@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm a third-year college student pursuing my Bachelor of Engineering (B.E.) in Cyber Security degree at Mumbai University. I am an passionate Programmer and a Tech Geek with experience working as a Full Stack Developer<br><br>- 🔭 I’m working as Full Stack Developer Intern<br>- 📚 I'm currently learning React + TypeScript </p>
+<p align="left">I'm a third-year college student pursuing my Bachelor of Engineering (B.E.) in Cyber Security degree at Mumbai University. I am an passionate Programmer and a Tech Geek with experience working as a Full Stack Developer<br><br>- 🔭 I’m working as Full Stack Developer Intern<br>- 📚 I'm currently learning React and TypeScript </p>
 
 ###
 
