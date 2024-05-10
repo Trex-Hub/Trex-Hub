@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm a third-year college student pursuing my Bachelor of Technology (B.tech) in Cyber Security degree at Mumbai University. I am an passionate Programmer and a Tech Geek with experience working as a Full Stack Developer.<br><br>- 🔭 I’m working as Full Stack Developer Intern<br>- 📚 I'm currently learning React and TypeScript </p>
+<p align="left">I'm a third-year college student pursuing my Bachelor of Technology (B.Tech) in Cyber Security at Mumbai University. I'm an avid programmer and tech enthusiast with experience working as a Full Stack Developer. Currently, I'm transitioning into the role of a DevOps Engineer, where I'm actively learning and applying my skills.<br><br>- 🔭 I’m working as Jr. DevOps Engineer<br>- 📚 I'm currently learning Terraform (Infrastructure as Code ) Platform </p>
 
 ###
 
