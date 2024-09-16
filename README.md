@@ -2,7 +2,7 @@
 <h3 align="center">(⋑•ㅅ•)⋑</h3>
 
 ###
-<p align="left">I'm a final-year student pursuing my Bachelor of Technology (B.Tech) in Cyber Security at Mumbai University. I'm an Passionate programmer and tech enthusiast with experience working as a Full Stack Developer. Currently, I'm transitioning into the role of a DevOps Engineer, where I'm actively learning and applying my skills.<br><br>- 🔭 I’m working as Jr. DevOps Engineer<br>- 📚 I'm currently learning Terraform/Terragrunt Platform </p>
+<p align="left">I'm a final-year student pursuing my Bachelor of Technology (B.Tech) in Cyber Security at Mumbai University. I'm an Passionate programmer and tech enthusiast with experience working as a Full Stack Developer. Currently, I'm transitioning into the role of a DevOps Engineer, where I'm actively learning and applying my skills.<br><br>- 🔭 I’m working as Jr. DevOps & Full Stack Engineer<br>- 📚 I'm currently learning & practising Kubernetes/Next.Js 💀 </p>
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
