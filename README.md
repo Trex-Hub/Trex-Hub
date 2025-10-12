@@ -2,7 +2,7 @@
 <h3 align="center">(⋑•ㅅ•)⋑</h3>
 
 ###
-<p align="left">I'm a final-year student pursuing my Bachelor of Technology (B.Tech) in Cyber Security at Mumbai University. I'm an Passionate programmer and tech enthusiast with experience working as a Full Stack Developer. Currently, I'm transitioning into the role of a DevOps Engineer, where I'm actively learning and applying my skills.<br><br>- 🔭 I’m working as Jr. DevOps & Full Stack Engineer<br>- 📚 I'm currently learning & practising Kubernetes/Next.Js 💀 </p>
+<p align="left">A Working Professional with love for technology and cool nerdy stuff. <br>I'm currently learning & practising Agentic AI and Advance DevOps Practices. </p>
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
@@ -40,3 +40,6 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" /
 </div>
+
+<p align="left">Reach out to me if you want to connect for some nerdy stuff. I'm open to anything you have to share 😉. <a href="mailto:devendrapkmishra@gmail.com">Email here</a> </p>
+
